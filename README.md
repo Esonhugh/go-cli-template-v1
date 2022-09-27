@@ -6,7 +6,7 @@
 - TableWriter: 渲染输出表格结构体等 - render tables structs
 - ColorCobra: 彩色命令行输出 - color commandline output
 - survey: 友好的命令行交互 - friendly commandline interaction
-- logres: 日志输出 - log output
+- logrus: 日志输出 - log output
 - go doc: 支持 godoc - support godoc
 
 ### 项目结构 Structure
